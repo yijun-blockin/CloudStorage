@@ -1,0 +1,8 @@
+/* antd 样式 */
+@import '~antd/dist/antd.css';
+
+/* 重置样式 */
+@import './reset.css';
+
+/* 全局样式 */
+@import './global.css';
