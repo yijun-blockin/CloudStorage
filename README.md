@@ -27,3 +27,21 @@ npm start
 * normalize.css ~ 重置css样式
 
 * antd ~ react组件库
+
+### 联系作者
+
+`星外孤月（旁观者）`
+
+* [博客](https://delpast.com/)
+
+* [Github](https://github.com/SpectatorWjx)
+
+* 邮箱：`1332504948@qq.com`
+
+`Deeruby | yijun`
+
+* [博客](https://deeruby.com/)
+
+* [Github](https://github.com/ajun568)
+
+* 邮箱：`ajun568@qq.com`
