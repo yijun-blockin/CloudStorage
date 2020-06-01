@@ -1,3 +1,2 @@
-*.css linguist-language=React
-*.ts linguist-language=React
-*.tsx linguist-language=React
+*.css linguist-language=TypeScript
+*.html linguist-language=TypeScript
